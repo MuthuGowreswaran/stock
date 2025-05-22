@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-14T17:53:59 IST" name="Default suite" finished-at="2025-05-14T17:54:08 IST" duration-ms="9273">
+    <groups>
+    </groups>
+    <test started-at="2025-05-14T17:53:59 IST" name="Default test" finished-at="2025-05-14T17:54:08 IST" duration-ms="9273">
+      <class name="tests.StockInfoTest">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:tests.StockInfoTest@46cdf8bd]" started-at="2025-05-14T17:53:58 IST" name="startReport" finished-at="2025-05-14T17:53:59 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="setValue()[pri:0, instance:tests.StockInfoTest@46cdf8bd]" started-at="2025-05-14T17:53:59 IST" name="setValue" finished-at="2025-05-14T17:53:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValue -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:tests.StockInfoTest@46cdf8bd]" started-at="2025-05-14T17:53:59 IST" name="testDetails" finished-at="2025-05-14T17:53:59 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:tests.StockInfoTest@46cdf8bd]" started-at="2025-05-14T17:53:59 IST" name="preCondition" finished-at="2025-05-14T17:54:04 IST" duration-ms="5232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="testStockInformation()[pri:0, instance:tests.StockInfoTest@46cdf8bd]" started-at="2025-05-14T17:54:04 IST" name="testStockInformation" finished-at="2025-05-14T17:54:08 IST" duration-ms="3661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStockInformation -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:tests.StockInfoTest@46cdf8bd]" started-at="2025-05-14T17:54:08 IST" name="postCondition" finished-at="2025-05-14T17:54:08 IST" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="stopReport()[pri:0, instance:tests.StockInfoTest@46cdf8bd]" started-at="2025-05-14T17:54:08 IST" name="stopReport" finished-at="2025-05-14T17:54:08 IST" duration-ms="439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopReport -->
+      </class> <!-- tests.StockInfoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
